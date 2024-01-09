@@ -1,3 +1,15 @@
+Hello My name is Raja and This repository contains the Front-end Code of EmployeManagement Full-Stack Web Application. This is My Second Web application project which i have created by myself.
+
+I have used React for the front-End part in which i have used bootstrap and tailwind css to make my project look more attractive. This project is better than i have create before because using Javascript i have used my own validation for the input fields that when you 
+are adding a new Employee data in database so you have to fill all the input fields and only then you can save the Data of new Employee.
+
+When You click on All The Employees button it will take you to other page which contains all the employee details which are in our database and there are 2 more options that you can use for each employee which are EDIT & DELETE. 
+
+DELETE BUTTON - When you want to remove an employee from your database you can just click on delete button of that specific employee and it will remove that employee from your database. 
+
+EDIT BUTTON - When you want to edit or change some data of any employee in you database you can click on Edit button of that specific employee and it will take you to a new page, In this page you can see the Old Details of that employee with the Employee-ID and the other input fields that allows you to update or change the data of that employee and once you are done after filling all the input fields, you can click on SAVE BUTTON, When you click on Save button it will update the details of that specific employee in database and take you back to the page where all the employees data is displayed and you can see the changes that you made.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
